@@ -1,0 +1,10 @@
+
+sentence-transformers
+google-generativeai
+python-dotenv
+langchain
+pinecone-client
+flask
+langchain_community
+ipykernel
+pypdf
