@@ -8,3 +8,5 @@ flask
 langchain_community
 ipykernel
 pypdf
+
+-e .
